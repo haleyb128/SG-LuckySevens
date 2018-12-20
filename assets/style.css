@@ -1,0 +1,49 @@
+#titlebanner {
+    width: 80%;
+    margin: 5px;
+}
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+#startLabel {
+    font-size: 24px;
+}
+form {
+    font-size: 20px;
+}
+button {
+    margin-top: 20px;
+    background-color: #b7ff98;
+}
+button:hover {
+    background-color: #71e440;
+}
+.title{
+    font-size: 24px;
+    font-weight: bold;
+    /* border-bottom-style: double;
+    border-bottom-width: 2px;
+    border-bottom-color: rgba(82, 252, 59, 0.822); */
+}
+#results {
+    text-align: center;
+}
+.green {
+    background-color: #b7ff98;
+    width: 60%;
+}
+table {
+    text-align: center;
+}
+* {
+    margin-left:auto; 
+    margin-right:auto;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 16px;
+    padding: 7px;
+}
+.rowTitle {
+    font-weight: bold;
+    padding-right: 15px;
+}
